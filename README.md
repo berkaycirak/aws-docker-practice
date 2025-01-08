@@ -124,6 +124,18 @@ This project demonstrates:
 
 This project is open-source and available under the MIT License.
 
+## 🤝 Development Support
+
+This project was developed with the assistance of Cursor AI Composer, a powerful AI-powered development tool that:
+
+- Accelerates development workflow
+- Provides intelligent code suggestions
+- Assists with code generation and debugging
+- Helps maintain best practices and coding standards
+- Streamlines the implementation of complex features
+
+Using Cursor AI Composer significantly enhanced the development process by providing smart suggestions, automating repetitive tasks, and ensuring code quality across both frontend and backend components.
+
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests. You can also open issues for bugs or feature requests.
